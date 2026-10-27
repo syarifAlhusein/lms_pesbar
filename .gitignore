@@ -1,6 +1,7 @@
 # Dependencies
 node_modules/
 .agents/
+.vite/
 /.pnp
 .pnp.js
 
@@ -50,3 +51,6 @@ Desktop.ini
 
 # Skills
 skills-lock.json
+
+DESIGN.md
+README.md
